@@ -1,1 +1,2 @@
-# chart-app
+# chart
+Chart neurolinguistico app

@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Chart</string>
+    <string name="title_home">Tutorial</string>
+    <string name="title_dashboard">Chart</string>
+    <string name="title_notifications">Opções</string>
+
+    <!-- Tutorial Texts-->
+    <string name="tutorialTextTop0">Quer ficar mais focado para a atividade que vai realizar ?!</string>
+    <string name="tutorialTextTop1">Fale em voz alta a letra grande que está na tela (\"B\")</string>
+    <string name="tutorialTextTop2">Fale em voz alta a nova letra grande que está na tela (\"C\")</string>
+    <string name="tutorialTextTop3">Fale em voz alta a nova letra grande que está na tela (\"D\")</string>
+    <string name="tutorialTextTop4">Durante o exercicio as letras vão trocar automaticamente.
+        Em OPÇÔES você pode relembrar o significado de cada letra e alterar parametros do exercício</string>
+
+    <string name="tutorialTextMiddle0">Aprenda a utilizar o chart neurolinguístico e fique 100% focado !</string>
+    <string name="tutorialTextMiddle1">Enquanto fala em voz alta, faça a ação indicada pela letra menor:</string>
+    <string name="tutorialTextMiddle2">Se cometer algum erro toque na LETRA GRANDE para recomeçar ! Não tente se enganar, errou ? RECOMEÇE !</string>
+
+    <string name="tutorialTextSmallLetter0">NUNCA FAÇA ESSE EXERCICIO ANTES DE DORMIR !! Pode dificultar o seu sono</string>
+    <string name="tutorialTextSmallLetter1">(\"d\") significa: levante a mão direita e a perna esquerda</string>
+    <string name="tutorialTextSmallLetter2">(\"e\") significa: levante a mão esquerda e a perna direita</string>
+    <string name="tutorialTextSmallLetter3">(\"j\") significa: de um pulinho</string>
+    <string name="tutorialTextSmallLetter4">Após passar por todas as letras do alfabeto SEM COMETER ERROS, você terá terminado o exercício !! </string>
+
+    <string name="tutorialTexBellow0">Toque na letra A para começar</string>
+    <string name="tutorialTexBellow1">Toque na letra B para continuar</string>
+    <string name="tutorialTexBellow2">Toque na letra C para continuar</string>
+    <string name="tutorialTexBellow3">Toque na letra D para continuar</string>
+    <string name="tutorialTexBellow4">Toque na letra H para finalizar o tutorial</string>
+
+    <string name="tutorialMainLetterA">A</string>
+    <string name="tutorialMainLetterB">B</string>
+    <string name="tutorialMainLetterC">C</string>
+    <string name="tutorialMainLetterD">D</string>
+    <string name="tutorialMainLetterH">H</string>
+
+    <string name="tutorialSmallLetterD">d</string>
+    <string name="tutorialSmallLetterE">e</string>
+    <string name="tutorialSmallLetterJ">j</string>
+
+
+    <string name="changingVelocityText">Velocidade para trocar a letra:</string>
+    <string name="velocityOptionSlow">Lento</string>
+    <string name="velocityOptionFast">Rápido</string>
+
+    <string name="gameLenghtText">Quantidade de letras:</string>
+    <string name="gameLenghtShort">Curto</string>
+    <string name="gameLenghtLong">Longo</string>
+
+    <string name="reminderText">Lembrete:</string>
+    <string name="estimatedGameLenghtText">Nessas configurações, sem cometer erros, o exercicio irá demorar %1$d segundos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chartFinished">Exercicio completo !</string>
+    <string name="startTextTip">Clique na letra grande para começar</string>
+    <string name="askTutorialTitle">Veja o tutorial !</string>
+    <string name="askTutorial">É bem rapidinho&#8230;</string>
+    <string name="yesTutorial">QUERO VER</string>
+    <string name="noTutorial">não</string>
+</resources>
